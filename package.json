@@ -1,0 +1,23 @@
+{
+  "name": "atividade15",
+  "version": "1.0.0",
+  "description": "atividade",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidivann/nodejs.git"
+  },
+  "author": "deidivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deidivann/nodejs/issues"
+  },
+  "homepage": "https://github.com/deidivann/nodejs#readme",
+  "devDependencies": {
+    "sass": "^1.71.1"
+  }
+}
